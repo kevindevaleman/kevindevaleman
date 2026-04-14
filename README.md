@@ -1,4 +1,4 @@
-<h1 align="center">Senior Stack Software Engineer</h1>
+<h1 align="center">Senior Software Engineer</h1>
 <h3 align="center">Experienced full-stack engineer with a proven track record of delivering high-quality, scalable applications.</h3>
 
 - 💬 Ask me about **SPA frameworks (React, Vue.js, Angular, Next.js, Nuxt.js, etc) and Express.js / Django**
